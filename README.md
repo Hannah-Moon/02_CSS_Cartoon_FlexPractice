@@ -1,5 +1,8 @@
 # HTML/CSS Assignment
-![Google Spring Search Page](02_CSS_Cartoon_FlexPractice.png)
+Hey! In this repository, I demonstrated to create article cards with images and utilzied CSS Flex code. 
+
+‍
+![CSS - Flex Cartoon Page](02_CSS_Cartoon_FlexPractice.png)
 
 
 ## Live Link
